@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lsiksous.github.io/posts/hello_world/</loc>
+    <lastmod>2019-08-08T18:37:34+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lsiksous.github.io/</loc>
-    <priority>0</priority>
+    <lastmod>2019-08-08T18:37:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lsiksous.github.io/posts/</loc>
+    <lastmod>2019-08-08T18:37:34+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lsiksous.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lsiksous.github.io/</loc>
   </url>
   
   <url>
