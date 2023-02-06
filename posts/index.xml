@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on laurent siksous</title>
-    <link>https://lsiksous.github.io/posts/</link>
-    <description>Recent content in Posts on laurent siksous</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 08 Aug 2019 18:37:34 +0200</lastBuildDate>
-    
-	<atom:link href="https://lsiksous.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 18:02:11 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://lsiksous.github.io/posts/hello_world/</link>
-      <pubDate>Thu, 08 Aug 2019 18:37:34 +0200</pubDate>
+      <link>http://example.org/posts/new_post/</link>
+      <pubDate>Mon, 06 Feb 2023 18:02:11 +0100</pubDate>
       
-      <guid>https://lsiksous.github.io/posts/hello_world/</guid>
-      <description> Hello World. </description>
+      <guid>http://example.org/posts/new_post/</guid>
+      <description>Hello World !</description>
     </item>
     
   </channel>
