@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://lsiksous.nl/about/</loc>
     <lastmod>2024-05-27T12:33:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lsiksous.nl/</loc>
     <lastmod>2024-05-27T12:33:24+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://lsiksous.nl/projects/</loc>
     <lastmod>2024-05-27T12:30:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lsiksous.nl/categories/</loc>
     <lastmod>2024-05-27T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>https://lsiksous.nl/posts/hello-world/</loc>
     <lastmod>2024-05-27T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hugo/</loc>
+    <loc>https://lsiksous.nl/categories/hugo/</loc>
     <lastmod>2024-05-27T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lsiksous.nl/posts/</loc>
     <lastmod>2024-05-27T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lsiksous.nl/tags/</loc>
   </url>
 </urlset>
